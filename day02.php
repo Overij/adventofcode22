@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @link https://adventofcode.com/2022/day/1
+ * @link https://adventofcode.com/2022/day/2
  */
 
 $inputs = file('input/day02.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
